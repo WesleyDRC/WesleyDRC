@@ -1,6 +1,6 @@
 ### Hi, I'm Wesley 👋
 
-- 🌱 I'm currently learning React JS, Node.js and TypeScript.
+- 🌱 I'm currently learning React JS, Node.js, TypeScript and Docker.
 - 💻 All my projects are available on [GitHub](https://github.com/wesleydrc)
 - 💬 Ask me about HTML, CSS, JavaScript, FrontEnd.
 
