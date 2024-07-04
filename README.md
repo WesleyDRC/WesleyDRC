@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently learning React JS, Node.js, TypeScript and Docker.
 - 💻 All my projects are available on [GitHub](https://github.com/wesleydrc)
-- 💬 Ask me about HTML, CSS, JavaScript, FrontEnd.
+- 💬 Ask me about React, Node.js, Express, SQL and NoSQL.
 
 <div align="center">
   <a href="https://github.com/wesleydrc">
